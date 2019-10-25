@@ -1,4 +1,2 @@
 # Resume
-# Resume
-# Resume
-# Resume
+Last updated: 16 Oct, 2019
